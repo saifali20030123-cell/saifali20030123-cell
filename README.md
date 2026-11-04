@@ -32,7 +32,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="160" height="160" style="object-fit: cover; border-radius: 12px; margin: 8px;" alt="GIF 1" />
   &nbsp;&nbsp;
-  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTM4MTQ1NzEsIm5iZiI6MTc5MzgxNDI3MSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTA0VDE3NDQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3YzE4MTZhNmUxMDcwNTE1YzE4MDJkYTk4NGJjYmNjYThhYTY1ODUyMWFhNTI0OWZiYmUyODc4YmJlOTJlOGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.B5zmJboRDC66T7x1YjO1FGlZ0unfRjNpm7qy-Lj-1GA" width="160" height="160" style="object-fit: cover; border-radius: 12px; margin: 8px;" alt="GIF 2" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="160" height="160" style="object-fit: cover; border-radius: 12px; margin: 8px;" alt="GIF 2" />
 </div>
 
 ### 🛠️ Tech Stack & Skills:
