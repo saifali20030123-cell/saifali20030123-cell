@@ -30,9 +30,10 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="160" height="160" style="object-fit: cover; border-radius: 12px; margin: 8px;" alt="GIF 1" />
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="160" height="160" style="object-fit: cover; border-radius: 12px; margin: 8px;" alt="GIF 2" />
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="140" height="140" style="object-fit: cover; border-radius: 12px; margin: 6px;" alt="GIF 1" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="140" height="140" style="object-fit: cover; border-radius: 12px; margin: 6px;" alt="GIF 2" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="140" height="140" style="object-fit: cover; border-radius: 12px; margin: 6px;" alt="GIF 3" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="140" height="140" style="object-fit: cover; border-radius: 12px; margin: 6px;" alt="GIF 4" />
 </div>
 
 ### 🛠️ Tech Stack & Skills:
